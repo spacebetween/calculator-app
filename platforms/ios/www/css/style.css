@@ -1,0 +1,37 @@
+.pane{
+	background: #7f8c8d;
+}
+*{
+	border: none !important;
+	color: #F0F1F1 !important;
+}
+.list, .item, .item-content{
+	background-color: rgba(0,0,0,0.2) !important;
+}
+.dark {
+  background-color: #3f4041 !important;
+  color: #ffffff;
+}
+.dark .scroll-content {
+  background-color: #3f4041 !important;
+}
+.popup{
+	background-color: black;
+}
+.button.button-positive {
+	background-color: #3498db;
+	border: 2px solid #3498db !important;
+}
+.button.button-energized {
+	background-color: #e74c3c;
+	border: 2px solid #e74c3c !important;
+}
+.activated{
+	background-color: black !important;
+}
+.card{
+	background-color: #e74c3c;
+}
+img{
+	max-width: 250px;
+}
