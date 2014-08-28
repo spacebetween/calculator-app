@@ -6,7 +6,10 @@
 	color: #F0F1F1 !important;
 }
 input{
-	color: black !important;
+	color: white !important;
+	border: 1px solid white !important;
+	background-color: rgba(0,0,0,0.2) !important;
+	padding-left: 7px !important;
 }
 .list, .item, .item-content{
 	background-color: rgba(0,0,0,0.2) !important;
@@ -37,4 +40,7 @@ input{
 }
 img{
 	max-width: 250px;
+}
+.item-input{
+	padding: 5px 10px;
 }

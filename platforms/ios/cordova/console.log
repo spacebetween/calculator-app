@@ -483,3 +483,62 @@ Terminating in response to SpringBoard's termination.
 2014-08-02 20:06:39.675 HR GO Calculator[19767:70b] 0.8
 2014-08-02 20:06:55.305 HR GO Calculator[19767:70b] 0.8
 2014-08-02 20:07:05.143 HR GO Calculator[19767:70b] 0.8
+2014-08-13 13:22:05.417 HR GO Calculator[61889:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-13 13:22:05.442 HR GO Calculator[61889:70b] Unlimited access to network resources
+2014-08-13 13:22:05.588 HR GO Calculator[61889:70b] [CDVTimer][keyboard] 0.055969ms
+2014-08-13 13:22:05.588 HR GO Calculator[61889:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-08-13 13:22:05.589 HR GO Calculator[61889:70b] [CDVTimer][statusbar] 0.406981ms
+2014-08-13 13:22:05.589 HR GO Calculator[61889:70b] [CDVTimer][TotalPluginStartup] 1.350999ms
+2014-08-13 13:22:05.735 HR GO Calculator[61889:70b] Resetting plugins due to page load.
+2014-08-13 13:22:05.922 HR GO Calculator[61889:70b] Finished load of: file:///Users/John/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/B66F5B7A-1C4F-4CCD-BD2A-4B1C475B4B71/HR%20GO%20Calculator.app/www/index.html#/app/about
+2014-08-13 13:28:13.427 HR GO Calculator[61889:70b] 0.79
+2014-08-14 09:39:39.496 HR GO Calculator[65332:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-14 09:39:39.521 HR GO Calculator[65332:70b] Unlimited access to network resources
+2014-08-14 09:39:39.673 HR GO Calculator[65332:70b] [CDVTimer][keyboard] 0.066042ms
+2014-08-14 09:39:39.674 HR GO Calculator[65332:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-08-14 09:39:39.674 HR GO Calculator[65332:70b] [CDVTimer][statusbar] 0.531971ms
+2014-08-14 09:39:39.675 HR GO Calculator[65332:70b] [CDVTimer][TotalPluginStartup] 1.376033ms
+2014-08-14 09:39:39.814 HR GO Calculator[65332:70b] Resetting plugins due to page load.
+2014-08-14 09:39:40.003 HR GO Calculator[65332:70b] Finished load of: file:///Users/John/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/B66F5B7A-1C4F-4CCD-BD2A-4B1C475B4B71/HR%20GO%20Calculator.app/www/index.html#/app/about
+2014-08-26 09:26:13.187 HR GO Calculator[21250:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-26 09:26:13.210 HR GO Calculator[21250:70b] Unlimited access to network resources
+2014-08-26 09:26:13.385 HR GO Calculator[21250:70b] [CDVTimer][keyboard] 0.083029ms
+2014-08-26 09:26:13.387 HR GO Calculator[21250:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-08-26 09:26:13.388 HR GO Calculator[21250:70b] [CDVTimer][statusbar] 0.539005ms
+2014-08-26 09:26:13.388 HR GO Calculator[21250:70b] [CDVTimer][TotalPluginStartup] 3.157973ms
+2014-08-26 09:26:13.532 HR GO Calculator[21250:70b] Resetting plugins due to page load.
+2014-08-26 09:26:13.713 HR GO Calculator[21250:70b] Finished load of: file:///Users/John/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/B66F5B7A-1C4F-4CCD-BD2A-4B1C475B4B71/HR%20GO%20Calculator.app/www/index.html#/app/about
+2014-08-28 11:03:53.802 HR GO Calculator[36585:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-28 11:03:53.867 HR GO Calculator[36585:70b] Unlimited access to network resources
+2014-08-28 11:03:54.410 HR GO Calculator[36585:70b] [CDVTimer][keyboard] 0.086010ms
+2014-08-28 11:03:54.410 HR GO Calculator[36585:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-08-28 11:03:54.410 HR GO Calculator[36585:70b] [CDVTimer][statusbar] 0.433028ms
+2014-08-28 11:03:54.411 HR GO Calculator[36585:70b] [CDVTimer][TotalPluginStartup] 1.370013ms
+2014-08-28 11:03:54.639 HR GO Calculator[36585:70b] Resetting plugins due to page load.
+2014-08-28 11:03:55.027 HR GO Calculator[36585:70b] Finished load of: file:///Users/John/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/B66F5B7A-1C4F-4CCD-BD2A-4B1C475B4B71/HR%20GO%20Calculator.app/www/index.html#/app/about
+2014-08-28 11:04:11.048 HR GO Calculator[36585:70b] adjusting nicersDay to be greater than 0
+2014-08-28 11:07:09.643 HR GO Calculator[36779:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-28 11:07:09.649 HR GO Calculator[36779:70b] Unlimited access to network resources
+2014-08-28 11:07:09.667 HR GO Calculator[36779:70b] [CDVTimer][keyboard] 0.090003ms
+2014-08-28 11:07:09.667 HR GO Calculator[36779:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-08-28 11:07:09.668 HR GO Calculator[36779:70b] [CDVTimer][statusbar] 0.517011ms
+2014-08-28 11:07:09.668 HR GO Calculator[36779:70b] [CDVTimer][TotalPluginStartup] 1.601994ms
+2014-08-28 11:07:09.706 HR GO Calculator[36779:70b] Resetting plugins due to page load.
+2014-08-28 11:07:09.802 HR GO Calculator[36779:70b] Finished load of: file:///Users/John/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/B66F5B7A-1C4F-4CCD-BD2A-4B1C475B4B71/HR%20GO%20Calculator.app/www/index.html#/app/about
+2014-08-28 11:08:12.222 HR GO Calculator[36973:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-28 11:08:12.232 HR GO Calculator[36973:70b] Unlimited access to network resources
+2014-08-28 11:08:12.254 HR GO Calculator[36973:70b] [CDVTimer][keyboard] 0.086010ms
+2014-08-28 11:08:12.255 HR GO Calculator[36973:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-08-28 11:08:12.255 HR GO Calculator[36973:70b] [CDVTimer][statusbar] 0.483990ms
+2014-08-28 11:08:12.256 HR GO Calculator[36973:70b] [CDVTimer][TotalPluginStartup] 1.561999ms
+2014-08-28 11:08:12.323 HR GO Calculator[36973:70b] Resetting plugins due to page load.
+2014-08-28 11:08:12.678 HR GO Calculator[36973:70b] Finished load of: file:///Users/John/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/B66F5B7A-1C4F-4CCD-BD2A-4B1C475B4B71/HR%20GO%20Calculator.app/www/index.html#/app/about
+Terminating in response to SpringBoard's termination.
+2014-08-28 11:10:43.262 HR GO Calculator[37198:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-28 11:10:43.280 HR GO Calculator[37198:70b] Unlimited access to network resources
+2014-08-28 11:10:43.324 HR GO Calculator[37198:70b] [CDVTimer][keyboard] 0.083029ms
+2014-08-28 11:10:43.334 HR GO Calculator[37198:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-08-28 11:10:43.338 HR GO Calculator[37198:70b] [CDVTimer][statusbar] 3.363013ms
+2014-08-28 11:10:43.343 HR GO Calculator[37198:70b] [CDVTimer][TotalPluginStartup] 18.878996ms
+2014-08-28 11:10:43.529 HR GO Calculator[37198:70b] Resetting plugins due to page load.
+2014-08-28 11:10:44.134 HR GO Calculator[37198:70b] Finished load of: file:///Users/John/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/B66F5B7A-1C4F-4CCD-BD2A-4B1C475B4B71/HR%20GO%20Calculator.app/www/index.html#/app/about

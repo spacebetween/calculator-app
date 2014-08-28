@@ -1,6 +1,10 @@
 angular.module('starter.controllers', [])
 
-.controller('AppCtrl', function ($scope) {})
+.controller('AppCtrl', function ($scope, $stateParams, $location) {
+    $scope.menu = function(link){
+        $location.path(link);
+    };
+})
 .controller('AboutCtrl', function ($scope, $stateParams, $http) {})
 .controller('SterlingCtrl', function ($scope, $stateParams, $ionicPopup) {
     $scope.results = {
@@ -34,14 +38,6 @@ angular.module('starter.controllers', [])
            });
          };
     $scope.calculate = function () {
-        if ($scope.calculator.payRate < 6.50){
-            $scope.showAlert('ERROR', 'Pay rate must be above the national minimum wage, performing calculation at national minimum wage...');
-            $scope.calculator.payRate = 6.50;
-        }
-        if ($scope.calculator.holiday < 28){
-            $scope.showAlert('ERROR', 'Holday must be more than 28 days each month, performing calculation with 28 days...');
-            $scope.calculator.holiday = 28;
-        }
         $scope.calculator.holidayPayRatePercentage = $scope.calculator.holiday / (260 - $scope.calculator.holiday);
 
         // calculate Pay / Day
@@ -51,7 +47,6 @@ angular.module('starter.controllers', [])
         var nicersDay = $scope.results.day.pay - 153;
         nicersDay = nicersDay * $scope.convert(13.8);
         if (nicersDay < 0) {
-            console.log('adjusting nicersDay to be greater than 0');
             nicersDay = 0;
         }
         $scope.results.day.nicers = nicersDay;
@@ -172,7 +167,6 @@ angular.module('starter.controllers', [])
 
         // calculate Charge / Hour
         var decimal = 1 - $scope.convert($scope.calculator.markup);
-        console.log(decimal);
         $scope.results.hour.charge = $scope.results.hour.cost / decimal;
 
         // Calculate Charge / Day
